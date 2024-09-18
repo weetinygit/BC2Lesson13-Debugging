@@ -13,5 +13,7 @@ def palindrome_checker(word):
         return False
 
 
+#test
+
 print(palindrome_checker('potato'))
 print(palindrome_checker('racecar'))
